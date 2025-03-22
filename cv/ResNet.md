@@ -56,7 +56,6 @@
 └────────────── 跳跃连接 → 输出y = x + F(x)
 ```
 - 传递恒等映射（或线性投影），确保输入与主分支输出维度匹配。当通道数或尺寸变化时，使用**1x1卷积（步长=2）**调整输入。
-- 
 ### 4.3 what can you use in your work?
 - 404
 ### 4.4 what other reference do you want to follow?
